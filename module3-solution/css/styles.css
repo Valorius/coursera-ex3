@@ -1,6 +1,6 @@
 body {
 	font-family: 'Quicksand', sans-serif;
-	font-size: 16px;
+	font-size: 18px;
 }
 
 /*START OF NAV BAR*/
@@ -49,3 +49,14 @@ body {
   margin-top: -30px;
 }
 /*END OF NAV BAR*/
+
+/*START OF MAIN CONTENT*/
+.container > section {
+	background-color: #FEF6AD;
+	height: 1000px;
+}
+
+#content-title {
+	margin-bottom: 50px;
+}
+/*END OF MAIN CONTENT*/
